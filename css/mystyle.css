@@ -1,0 +1,35 @@
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.bg-primary {
+    background-color: #003f8b !important;
+}
+
+h1.mb-0 .text-primary {
+    font-size: 3rem;      
+    color:#003f8b!important;
+}
+
+.subheading a[href^="mailto:"] {
+    color: #003f8b !important;
+    font-weight: bold;
+}
+
+#sideNav {
+    background-image: url('../assets/img/886831669f0589b05bff7342318a3ecc.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.resume-section-content h1 {
+    font-style: italic;
+}
+
+.resume-section-content h1 span {
+    font-style: normal;
+}
