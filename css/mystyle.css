@@ -82,3 +82,7 @@ h1.mb-0 .text-primary {
 .card-body {
     color: #000000;
 }
+
+.card-title {
+  text-align: center;
+}
