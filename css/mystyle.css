@@ -56,3 +56,29 @@ h1.mb-0 .text-primary {
     min-height: 80vh;
     padding-bottom: 60px;/
 }
+
+.resume-section-content img {
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-img-top {
+  width: auto;
+  max-width: 90%;
+  height: auto;
+  border-radius: 0 !important;
+}
+
+.card-body {
+    color: #000000;
+}
