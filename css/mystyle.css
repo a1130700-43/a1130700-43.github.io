@@ -40,6 +40,7 @@ h1.mb-0 .text-primary {
 
 .footer-in-awards {
     color: rgb(0, 0, 0);
+    background-color: white;
     text-align: center;
     padding: 15px 15px;
     margin-top: 120px;
@@ -50,11 +51,12 @@ h1.mb-0 .text-primary {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
+   
 }
 
 #awards {
     min-height: 80vh;
-    padding-bottom: 60px;/
+    padding-bottom: 60px;
 }
 
 .resume-section-content img {
@@ -96,4 +98,13 @@ h1.mb-0 .text-primary {
 #life .row .col-md-4 {
     display: flex;
     justify-content: center;
+}
+
+.resume-section {
+    background-image: url('../assets/img/highest\ in\ the\ room.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
 }
